@@ -1,0 +1,52 @@
+# So far you have done extraction & transformation 
+1. Check if you need to extract more info from places <vegas odds, lines from other books>
+    - https://chatgpt.com/share/680ea1df-e8c0-8009-8c7a-0a6e6e61b782 (more ideas on what to extract)
+
+2. IDK if this counts as transformation or load 
+    - Create fact and dimension tables 
+
+3. Load data into Big Query:
+https://www.youtube.com/watch?v=3PMeKjjX9Es&ab_channel=TheDataGuy
+
+
+### ALSO FOR AIRFLOW DOWNLOAD ASTRO, easiest way to run airflow , check youtube 
+    - https://www.astronomer.io/docs/astro/
+
+
+# Already tried browseruse
+https://github.com/browser-use/browser-use (not that helpful in scraping <could be helpful to select props on prizepicks directly?>)
+    - Maybe combine with brithdata to bypass captas and ips and stuff
+
+# Check the deeplaerning course  (make your own agent by yourself)
+    - Web Agent for sepcific tasks
+    - https://www.deeplearning.ai/short-courses/building-ai-browser-agents/
+
+
+---------------------------------------------------------------------------------------
+## Sidenote: LLM Engineering Essentials
+Cohort starts May 7
+Thanks for signing up for the LLM Engineering Essentials oppening session!
+
+We will be happy to see you with us on 7 MAY at 19 pm CET in ZOOM
+ZOOM Link: https://nebius.zoom.us/webinar/register/WN_fRQs-XofSzivwkNQUfGxBA
+
+Get ready:
+- to meet the team
+- go over the program details
+- ask any question
+- and kick off 12 weeks of focused, guided learning!
+
+Don’t forget to check your email and add the session to your calendar
+https://academy.nebius.com/llm-engineering-essentials
+
+
+------------------------------------------------------------------------------------
+# Things I may need to read later: 
+
+check if you can get odds from this website , check if its a Odds API 
+https://docs.balldontlie.io/#account-tiers
+
+
+# Prizepicks predictor:
+https://github.com/seanzhangw/prizepicks_predictor?utm_source=chatgpt.com
+

@@ -1,0 +1,18 @@
+# Airflow
+logs/
+__pycache__/
+*.pyc
+
+# Python environment
+.env
+.venv/
+.envrc
+
+# Google Cloud credentials
+*.json
+config/airflow-gcs-access.json
+
+# OS-specific
+.DS_Store
+.env
+config/*.json
